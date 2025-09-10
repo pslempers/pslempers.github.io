@@ -11,5 +11,5 @@ Here are some links to my digital content:
 
 <p>This is my Current [Portfolio Website](https://pslempers.wixsite.com/resume)</p>
 
-<p>Here is my [LinkedIn Profile](https://www.linkedin.com/in/peter-slempers/)</p>
+Here is my [LinkedIn Profile](https://www.linkedin.com/in/peter-slempers/)
 
