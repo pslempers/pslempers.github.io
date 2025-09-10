@@ -1,16 +1,15 @@
 > This is my first Markdown file.
 
-Peter Slempers Markdown Portfolio
-========
+# Peter Slempers Markdown Portfolio
+
 
 - [Home](index.markdown)
 - [About](about.markdown)
 - [Contact](contact.markdown)
 
-Home
---------
-What is this?
---------
+## Home
+
+## What is this?
 
 <p>This is my Markdown Portfolio's Home page.</p>
 

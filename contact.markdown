@@ -1,12 +1,12 @@
-Peter Slempers Markdown Portolio
-========
+# Peter Slempers Markdown Portolio
 
 - [Home](index.markdown)
 - [About](about.markdown)
 - [Contact](contact.markdown)
 
-Here are some links to my digital content:
---------
+## Contact
+
+## Here are some links to my digital content:
 
 This is my Current [Portfolio Website](https://pslempers.wixsite.com/resume)
 
