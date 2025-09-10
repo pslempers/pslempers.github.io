@@ -8,6 +8,8 @@ Peter Slempers Markdown Portfolio
     <li><a href="about.markdown" title="About">About</a></li>
     <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
+Home
+--------
 What is this?
 --------
 
