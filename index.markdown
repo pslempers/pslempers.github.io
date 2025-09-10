@@ -3,10 +3,10 @@
 Peter Slempers Markdown Portfolio
 ========
 
-<ul id="Project Submenu">
-    <li><a href="index" title="Home">Home</a></li>
-    <li><a href="about" title="About">About</a></li>
-    <li><a href="contact" title="Contact">Contact</a></li>
+<ul id="Submenu">
+    <li><a href="index.markdown" title="Home">Home</a></li>
+    <li><a href="about.markdown" title="About">About</a></li>
+    <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
 ## What is this?
 
