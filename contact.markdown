@@ -1,10 +1,9 @@
 Peter Slempers Markdown Portolio
 ========
 
-<ul id="Submenu">
-    <li><a href="index.markdown" title="Home">Home</a></li>
-    <li><a href="about.markdown" title="About">About</a></li>
-    <li><a href="contact.markdown" title="Contact">Contact</a></li>
+- [Home](index.markdown)
+- [About](about.markdown)
+- [Contact](contact.markdown)
 
 Here are some links to my digital content:
 --------
