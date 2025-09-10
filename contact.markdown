@@ -1,4 +1,4 @@
-# Peter Slempers Markdown Portolio
+# Peter Slempers Markdown Portfolio
 
 - [Home](index.markdown)
 - [About](about.markdown)
