@@ -4,9 +4,9 @@ Peter Slempers Markdown Portfolio
 ========
 
 <ul id="Project Submenu">
-    <li><a href="pslempers.github.io/index.markdown" title="Home">Home</a></li>
-    <li><a href="pslempers.github.io/about.markdown" title="About">About</a></li>
-    <li><a href="pslempers.github.io/contact.markdown" title="Contact">Contact</a></li>
+    <li><a href="index.markdown" title="Home">Home</a></li>
+    <li><a href="about.markdown" title="About">About</a></li>
+    <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
 ## What is this?
 
