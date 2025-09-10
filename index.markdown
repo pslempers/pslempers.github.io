@@ -4,7 +4,7 @@ Peter Slempers Markdown Portfolio
 ========
 
 <ul id="Submenu">
-    <li><a href="index.markdown" title="About">About</a></li>
+    <li><a href="index.markdown" title="About">Home</a></li>
     <li><a href="about.markdown" title="About">About</a></li>
     <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
