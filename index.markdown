@@ -8,7 +8,8 @@ Peter Slempers Markdown Portfolio
     <li><a href="about.markdown" title="About">About</a></li>
     <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
-## What is this?
+What is this?
+--------
 
 <p>This is my Markdown Portfolio's Home page.</p>
 

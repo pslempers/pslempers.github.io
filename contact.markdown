@@ -6,7 +6,8 @@ Peter Slempers Markdown Portolio
     <li><a href="about.markdown" title="About">About</a></li>
     <li><a href="contact.markdown" title="Contact">Contact</a></li>
 
-## Here are some links to my digital content:
+Here are some links to my digital content:
+--------
 
 <p>This is my Current Portfolio Website:</p>
 
