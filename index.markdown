@@ -13,6 +13,8 @@ This is my Markdown Portfolio's Home page.
 The goal of this page is to display an understanding of the Markup Language.
 It's great to see that this language is so "bare-bones", I can basically just ***write***.
 
+I'm a student at Humber Polytechnic in the Web Development Grad Certificate program.
+
 ```javascript
 var userInput;
 
@@ -26,6 +28,7 @@ else {
     console.log("No problem. I can do it for you!");
 }
 ```
+## Languages I'm Learning:
 
 | Language | Interest |
 | -------- | -------- |
@@ -34,3 +37,7 @@ else {
 | JavaScript | Love how it works! |
 | PHP | Love how it's organized! |
 | C# | Love how it runs! |
+
+## Projects Prior to College:
+
+[Rhythm Monkeys 2021](https://slemperman.itch.io/rhythm-monkeys)
