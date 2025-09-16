@@ -27,4 +27,10 @@ else {
 }
 ```
 
-> This is my first Markdown file.
+| Language | Interest |
+| -------- | -------- |
+| HTML | Love how it's structured! |
+| CSS | Love how it looks! |
+| JavaScript | Love how it works! |
+| PHP | Love how it's organized! |
+| C# | Love how it runs! |
