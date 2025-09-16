@@ -25,5 +25,6 @@ if (confirm("Do you like to code?"))
 else {
     console.log("That's okay. I can do it for you!");
 }
+```
 
 > This is my first Markdown file.
