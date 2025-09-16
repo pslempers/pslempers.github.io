@@ -20,7 +20,7 @@ var userInput;
 
 if (confirm("Do you like to code?"))
 {
-    userInput = prompt("Me too! What's your name?);
+    userInput = prompt("Me too! What's your name?");
     console.log("Nice to meet you, " + userInput);
 } 
 
