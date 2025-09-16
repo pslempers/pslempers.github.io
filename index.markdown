@@ -23,7 +23,7 @@ if (confirm("Do you like to code?"))
 } 
 
 else {
-    console.log("That's okay. I can do it for you!");
+    console.log("No problem. I can do it for you!");
 }
 ```
 
