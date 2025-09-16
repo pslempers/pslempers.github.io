@@ -11,6 +11,6 @@
 This is my Markdown Portfolio's Home page.
 
 The goal of this page is to display an understanding of the Markup Language.
-It's great to see that this language is so "bare-bones", I can basically just write.
+It's great to see that this language is so "bare-bones", I can basically just ***write***.
 
 > This is my first Markdown file.
